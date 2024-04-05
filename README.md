@@ -1,6 +1,6 @@
 # Stanford Bunny Dataset
 
-This dataset contains path traced images of a modified small version of the *Stanford Bunny* model. As these images portray the *Stanford Bunny*, provided by the [Stanford Computer Graphics Laboratory](https://graphics.stanford.edu/), use of this dataset *must follow* the guidelines regarding the model file specified [here](https://graphics.stanford.edu/data/3Dscanrep/). If used in projects aligning with the specified guidelines, full credit for the dataset images is to be given to the [Stanford Computer Graphics Laboratory](https://graphics.stanford.edu/).
+This dataset contains path traced images of a modified version of the *Stanford Bunny* model with 850 verticies downscaled using Blender. As these images portray the *Stanford Bunny*, provided by the [Stanford Computer Graphics Laboratory](https://graphics.stanford.edu/), use of this dataset *must follow* the guidelines regarding the model file specified [here](https://graphics.stanford.edu/data/3Dscanrep/). If used in projects aligning with the specified guidelines, full credit for the dataset images is to be given to the [Stanford Computer Graphics Laboratory](https://graphics.stanford.edu/).
 
 ## Content
 
