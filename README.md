@@ -10,4 +10,4 @@ The following are eight randomly selected example images from the dataset:
 
 ## Structure
 
-The dataset contains one large zipped folder named `64` with 9000 images of dimensions `64x64` pixels. The second zipped folder is named `64t` and contains a few extra images of the same dimensions that can be used for things like testing performance of an artificial neural network.
+This dataset contains a total of 10000 small images. There is one large zipped folder named `64` with 9000 images of dimensions `64x64` pixels. The second zipped folder is named `64t` and contains 1000 extra images of the same dimensions that can be used for things like testing performance of an artificial neural network.
